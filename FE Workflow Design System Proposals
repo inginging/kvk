@@ -1,0 +1,197 @@
+<mxfile host="app.diagrams.net" modified="2020-07-21T15:18:34.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="-4RWFsycexYWqfyDXwPm" version="13.4.9" type="github" pages="3">
+  <diagram id="zQxXcHpXJerk67bLHJNU" name="New Component">
+    <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-2" value="Trinity Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="224" y="420" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-3" value="FE Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="650" y="190" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-5" target="-EenQ-ZczN2ww4JndV2S-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-5" target="-EenQ-ZczN2ww4JndV2S-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-5" value="Matrix Dev ontwikkelt component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="214" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-8" target="-EenQ-ZczN2ww4JndV2S-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-8" value="Nieuw component door Matrix?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-10" target="-EenQ-ZczN2ww4JndV2S-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-10" value="Product Team Dev importeert component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="640" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-13" target="-EenQ-ZczN2ww4JndV2S-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-13" value="Publish package" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="413.5" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-20" target="-EenQ-ZczN2ww4JndV2S-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-20" value="Create Merge &lt;br&gt;request" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="204" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-EenQ-ZczN2ww4JndV2S-21" target="-EenQ-ZczN2ww4JndV2S-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EenQ-ZczN2ww4JndV2S-21" value="Review" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="214" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e6wXx3pIRnNdB9UWKVWk-1" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="490" as="sourcePoint" />
+            <mxPoint x="650" y="259.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wXx3pIRnNdB9UWKVWk-2" value="Symlinked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" parent="1" vertex="1">
+          <mxGeometry x="414" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L7xGIas0atYUwCdkthwP" name="New Component by Product Team">
+    <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="_lZWEntNuMG-cuSp0Ljc-0" />
+        <mxCell id="_lZWEntNuMG-cuSp0Ljc-1" parent="_lZWEntNuMG-cuSp0Ljc-0" />
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-0" value="Trinity Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="224" y="420" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-1" value="FE Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="650" y="190" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-4" target="Z5GNlK1pxFVYzUodkGcs-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-4" target="Z5GNlK1pxFVYzUodkGcs-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-4" value="Product Team ontwikkelt component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="214" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-6" target="Z5GNlK1pxFVYzUodkGcs-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-6" value="Nieuw Component door Product Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-8" target="Z5GNlK1pxFVYzUodkGcs-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-8" value="Product Team Dev importeert component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="640" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-10" target="Z5GNlK1pxFVYzUodkGcs-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-10" value="Publish package" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="413.5" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-12" target="Z5GNlK1pxFVYzUodkGcs-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-12" value="Create Merge &lt;br&gt;request" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="204" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_lZWEntNuMG-cuSp0Ljc-1" source="Z5GNlK1pxFVYzUodkGcs-14" target="Z5GNlK1pxFVYzUodkGcs-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5GNlK1pxFVYzUodkGcs-14" value="Review door Team Matrix Dev" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="214" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0NqyNFyTNVSXVmgAfDCc-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_lZWEntNuMG-cuSp0Ljc-1" target="Z5GNlK1pxFVYzUodkGcs-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="490" as="sourcePoint" />
+            <mxPoint x="354" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NqyNFyTNVSXVmgAfDCc-3" value="Symlinked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-35;" parent="_lZWEntNuMG-cuSp0Ljc-1" vertex="1">
+          <mxGeometry x="414" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vQIOenFgzzQI0Tkm3fhG" name="New Component by Product Team v2">
+    <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="cvtoVIf7FHwsryR5t-MS-0" />
+        <mxCell id="cvtoVIf7FHwsryR5t-MS-1" parent="cvtoVIf7FHwsryR5t-MS-0" />
+        <mxCell id="KYSunUcxAqwKReHFm4q4-0" value="Trinity Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="390" y="410" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-1" value="FE Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="224" y="410" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-4" target="KYSunUcxAqwKReHFm4q4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-4" target="KYSunUcxAqwKReHFm4q4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-4" value="Product Team ontwikkelt component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="214" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-6" target="KYSunUcxAqwKReHFm4q4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-6" value="Nieuw Component door Product Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-8" target="KYSunUcxAqwKReHFm4q4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-8" target="TZQ3olkzka8WK2abyfRC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-8" value="Team Matrix zet component in DS" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="380" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-10" target="TZQ3olkzka8WK2abyfRC-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-10" value="Publish package" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-12" target="KYSunUcxAqwKReHFm4q4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-12" value="Create Merge &lt;br&gt;request" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="204" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-14" target="KYSunUcxAqwKReHFm4q4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYSunUcxAqwKReHFm4q4-14" value="Review door FE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="214" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-0" value="Team Matrix update imports en verwijderd component uit FE Repo" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="680" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="TZQ3olkzka8WK2abyfRC-7" target="TZQ3olkzka8WK2abyfRC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-7" value="Create Merge &lt;br&gt;request" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="370" y="196.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="TZQ3olkzka8WK2abyfRC-8" target="KYSunUcxAqwKReHFm4q4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZQ3olkzka8WK2abyfRC-8" value="Review door FE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="380" y="286.5" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
