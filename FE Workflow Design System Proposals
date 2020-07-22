@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T09:25:29.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="v0CMLVqt4HBdOsEviCIi" version="13.4.9" type="github" pages="5">
-  <diagram id="zQxXcHpXJerk67bLHJNU" name="New Component">
+<mxfile host="app.diagrams.net" modified="2020-07-22T09:30:44.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="paTeJ1mslKUulGABY6Wr" version="13.4.9" type="github" pages="5">
+  <diagram id="zQxXcHpXJerk67bLHJNU" name="Nieuw component door Matrix">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -58,7 +58,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="L7xGIas0atYUwCdkthwP" name="New Component by Product Team">
+  <diagram id="L7xGIas0atYUwCdkthwP" name="Nieuw component door product team">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="_lZWEntNuMG-cuSp0Ljc-0" />
@@ -117,7 +117,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vQIOenFgzzQI0Tkm3fhG" name="New Component by Product Team v2">
+  <diagram id="vQIOenFgzzQI0Tkm3fhG" name="Nieuw component door product team">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="cvtoVIf7FHwsryR5t-MS-0" />
@@ -190,7 +190,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="W5nOIcGSsbu6ZGsllNBo" name="Change component met Matrix">
+  <diagram id="W5nOIcGSsbu6ZGsllNBo" name="Aanpassing bestaand component">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="200" math="0" shadow="0">
       <root>
         <mxCell id="QvvoypLihEKPG4DA0kTZ-0" />
@@ -281,7 +281,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Change component met Matrix" id="kSQGdjt4D511a6Wq5abw">
+  <diagram name="Vervanging bestaand component" id="kSQGdjt4D511a6Wq5abw">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="tGL1tUn_xVkPCS7LBGdF-0" />
