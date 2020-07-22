@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T12:19:15.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="gqOqGi95mhM6W9-VlylJ" version="13.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-22T12:20:12.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="36cfJM73-l6vgVk6KPP1" version="13.4.9" type="github" pages="4">
   <diagram id="zQxXcHpXJerk67bLHJNU" name="Nieuw component door Matrix">
     <mxGraphModel dx="2049" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="hkxAx2VVP_2VpiUOVQxm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hkxAx2VVP_2VpiUOVQxm-1" source="hkxAx2VVP_2VpiUOVQxm-7" target="hkxAx2VVP_2VpiUOVQxm-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hkxAx2VVP_2VpiUOVQxm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hkxAx2VVP_2VpiUOVQxm-1" source="hkxAx2VVP_2VpiUOVQxm-7" target="hkxAx2VVP_2VpiUOVQxm-13">
+        <mxCell id="hkxAx2VVP_2VpiUOVQxm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hkxAx2VVP_2VpiUOVQxm-1" source="hkxAx2VVP_2VpiUOVQxm-7" target="TUUDN5dvPzUKtxxWclM6-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="-600" as="targetPoint" />
           </mxGeometry>
@@ -183,13 +183,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hkxAx2VVP_2VpiUOVQxm-26" value="Symlinked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hkxAx2VVP_2VpiUOVQxm-1">
-          <mxGeometry x="696.5" y="-100" width="40" height="20" as="geometry" />
+          <mxGeometry x="565" y="-100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ-qZa5RHqMFEzJPhDKG-0" value="Nieuw component door Product Team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="hkxAx2VVP_2VpiUOVQxm-1">
           <mxGeometry x="204" y="-760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jD88fZ0H9hlJat32I-w5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hkxAx2VVP_2VpiUOVQxm-1" source="iZ-qZa5RHqMFEzJPhDKG-0" target="iZ-qZa5RHqMFEzJPhDKG-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUUDN5dvPzUKtxxWclM6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hkxAx2VVP_2VpiUOVQxm-1" source="TUUDN5dvPzUKtxxWclM6-0" target="hkxAx2VVP_2VpiUOVQxm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUUDN5dvPzUKtxxWclM6-3" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TUUDN5dvPzUKtxxWclM6-2">
+          <mxGeometry x="-0.1099" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUUDN5dvPzUKtxxWclM6-0" value="Component klaar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="hkxAx2VVP_2VpiUOVQxm-1">
+          <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUUDN5dvPzUKtxxWclM6-1" value="Test Matrix ook het component in de FE Repo?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hkxAx2VVP_2VpiUOVQxm-1">
+          <mxGeometry x="360" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
