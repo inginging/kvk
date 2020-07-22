@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T15:18:34.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="-4RWFsycexYWqfyDXwPm" version="13.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-22T07:26:22.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="_Ct8P0pcvdd8JZVxJ0Bm" version="13.4.9" type="github" pages="3">
   <diagram id="zQxXcHpXJerk67bLHJNU" name="New Component">
     <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -134,29 +134,19 @@
         <mxCell id="KYSunUcxAqwKReHFm4q4-1" value="FE Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
           <mxGeometry x="224" y="410" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TZQ3olkzka8WK2abyfRC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-4" target="KYSunUcxAqwKReHFm4q4-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TZQ3olkzka8WK2abyfRC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" target="KYSunUcxAqwKReHFm4q4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="170" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TZQ3olkzka8WK2abyfRC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-4" target="KYSunUcxAqwKReHFm4q4-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KYSunUcxAqwKReHFm4q4-4" value="Product Team ontwikkelt component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
-          <mxGeometry x="214" y="70" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="KYSunUcxAqwKReHFm4q4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-6" target="KYSunUcxAqwKReHFm4q4-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KYSunUcxAqwKReHFm4q4-6" value="Nieuw Component door Product Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+        <mxCell id="KYSunUcxAqwKReHFm4q4-6" value="Aanpassing bestaand component door Product team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TZQ3olkzka8WK2abyfRC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-8" target="KYSunUcxAqwKReHFm4q4-10">
+        <mxCell id="7cMSAgqIfH1M6I4A6mHi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-8" target="7cMSAgqIfH1M6I4A6mHi-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TZQ3olkzka8WK2abyfRC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-8" target="TZQ3olkzka8WK2abyfRC-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KYSunUcxAqwKReHFm4q4-8" value="Team Matrix zet component in DS" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
-          <mxGeometry x="380" y="70" width="100" height="100" as="geometry" />
+        <mxCell id="KYSunUcxAqwKReHFm4q4-8" value="Product team bouwt component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="210" y="70" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TZQ3olkzka8WK2abyfRC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="KYSunUcxAqwKReHFm4q4-10" target="TZQ3olkzka8WK2abyfRC-0">
           <mxGeometry relative="1" as="geometry" />
@@ -190,6 +180,15 @@
         </mxCell>
         <mxCell id="TZQ3olkzka8WK2abyfRC-8" value="Review door FE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
           <mxGeometry x="380" y="286.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMSAgqIfH1M6I4A6mHi-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="7cMSAgqIfH1M6I4A6mHi-0" target="TZQ3olkzka8WK2abyfRC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMSAgqIfH1M6I4A6mHi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cvtoVIf7FHwsryR5t-MS-1" source="7cMSAgqIfH1M6I4A6mHi-0" target="KYSunUcxAqwKReHFm4q4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMSAgqIfH1M6I4A6mHi-0" value="Matrix kopieert component naar DS" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cvtoVIf7FHwsryR5t-MS-1">
+          <mxGeometry x="380" y="70" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
