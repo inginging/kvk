@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T08:14:03.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="AdEfffJiHLtYBKEhMQPG" version="13.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-23T08:24:11.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="w5cUi-yATFuu6peUHUFw" version="13.5.1" type="github" pages="4">
   <diagram id="zQxXcHpXJerk67bLHJNU" name="Nieuw component door Matrix">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,8 +360,8 @@
         <mxCell id="IQZ1yyrqfl8FznTUXSST-19" value="Product Team test component" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="QvvoypLihEKPG4DA0kTZ-1" vertex="1">
           <mxGeometry x="1000" y="420" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9hJNsbJv77dP-Mv8yNoH-3" value="Hoeveel tijd krijgen de Product teams hiervoor? Deprecation warnings?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="QvvoypLihEKPG4DA0kTZ-1" vertex="1">
-          <mxGeometry x="1080" y="120" width="120" height="90" as="geometry" />
+        <mxCell id="9hJNsbJv77dP-Mv8yNoH-3" value="Hoeveel tijd krijgen de Product teams hiervoor? Deprecation warnings?&lt;br&gt;&lt;br&gt;Communiceren is key!&lt;br&gt;&lt;br&gt;Welke changes zijn er?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="QvvoypLihEKPG4DA0kTZ-1" vertex="1">
+          <mxGeometry x="1080" y="120" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pbiQey2MlpmBlDhflKZg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QvvoypLihEKPG4DA0kTZ-1" source="pbiQey2MlpmBlDhflKZg-0" target="pbiQey2MlpmBlDhflKZg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
