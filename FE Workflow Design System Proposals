@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T11:15:52.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="VgIG0RHZGvYjU6lBxUna" version="13.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-24T11:16:46.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="wEuqylpPIoWszA_hMd4R" version="13.5.1" type="github" pages="4">
   <diagram id="zQxXcHpXJerk67bLHJNU" name="Nieuw component door Matrix">
     <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -698,7 +698,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GA9ppC-TST8IWgVXm2Ru-47" value="Component ready" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GA9ppC-TST8IWgVXm2Ru-1">
-          <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNkBZOccwohKowOvHy-x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.668;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GA9ppC-TST8IWgVXm2Ru-1" source="GA9ppC-TST8IWgVXm2Ru-51" target="GA9ppC-TST8IWgVXm2Ru-44">
           <mxGeometry relative="1" as="geometry" />
