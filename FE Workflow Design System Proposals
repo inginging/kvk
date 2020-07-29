@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T11:11:47.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="FZFjvL2HIovZlnzO49C5" version="13.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-29T08:37:31.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="jI8ZRzdx-sUeBEF9-pxq" version="13.5.5" type="github" pages="4">
   <diagram id="zQxXcHpXJerk67bLHJNU" name="Nieuw component door Matrix">
-    <mxGraphModel dx="2062" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="7v_GFMWmfgwSHnK_eL_T-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yBuVZeZ_SM0jTNaSl-_D-1" target="yxzak73Zr4g0R7O98JrY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NKWDX_5UKf9hK--CudtN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yBuVZeZ_SM0jTNaSl-_D-1">
+        <mxCell id="NKWDX_5UKf9hK--CudtN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="yBuVZeZ_SM0jTNaSl-_D-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="839" y="910" as="targetPoint" />
             <Array as="points">
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Nieuw component door Product Team" id="jrtTZht83BXtdlVw-qdh">
-    <mxGraphModel dx="2062" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="E_xVhMD3KCd3KEvFXsRw-0" />
         <mxCell id="E_xVhMD3KCd3KEvFXsRw-1" parent="E_xVhMD3KCd3KEvFXsRw-0" />
@@ -269,10 +269,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Aanpassing bestaand component" id="K7gHa0tYl_lTFj16Np18">
-    <mxGraphModel dx="2062" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oIQv_7I7JvyscMjkKoXb-0" />
         <mxCell id="oIQv_7I7JvyscMjkKoXb-1" parent="oIQv_7I7JvyscMjkKoXb-0" />
+        <mxCell id="SXs0vzPn3apjQhNzCzOd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oIQv_7I7JvyscMjkKoXb-1" source="oIQv_7I7JvyscMjkKoXb-2" target="SXs0vzPn3apjQhNzCzOd-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oIQv_7I7JvyscMjkKoXb-2" value="DS Repo" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="oIQv_7I7JvyscMjkKoXb-1" vertex="1">
           <mxGeometry x="244" y="1220" width="80" height="120" as="geometry" />
         </mxCell>
@@ -457,22 +460,11 @@
         <mxCell id="U_9pAFgc3us3jeHuQ8ch-1" value="Component ready" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="oIQv_7I7JvyscMjkKoXb-1" vertex="1">
           <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U_9pAFgc3us3jeHuQ8ch-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="oIQv_7I7JvyscMjkKoXb-1" source="U_9pAFgc3us3jeHuQ8ch-3" target="U_9pAFgc3us3jeHuQ8ch-4" edge="1">
+        <mxCell id="SXs0vzPn3apjQhNzCzOd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oIQv_7I7JvyscMjkKoXb-1" source="U_9pAFgc3us3jeHuQ8ch-3" target="oIQv_7I7JvyscMjkKoXb-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U_9pAFgc3us3jeHuQ8ch-3" value="Matrix test importeren en basis implementatie" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="oIQv_7I7JvyscMjkKoXb-1" vertex="1">
           <mxGeometry x="470" y="190" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="U_9pAFgc3us3jeHuQ8ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="oIQv_7I7JvyscMjkKoXb-1" source="U_9pAFgc3us3jeHuQ8ch-4" target="oIQv_7I7JvyscMjkKoXb-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U_9pAFgc3us3jeHuQ8ch-4" value="Publish package&lt;br&gt;Versie" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="oIQv_7I7JvyscMjkKoXb-1" vertex="1">
-          <mxGeometry x="610" y="205" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P2RRz3RdcSVVGjQxbpAv-2" value="Binnen een x tijdsbestek moet de change geïmplementeerd worden door de product teams. Deprecation warning in package." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=2" parent="oIQv_7I7JvyscMjkKoXb-1" vertex="1">
           <mxGeometry x="1240" y="160" width="150" height="140" as="geometry" />
@@ -517,11 +509,14 @@
             <mxPoint x="30" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SXs0vzPn3apjQhNzCzOd-0" value="Publish package&lt;br&gt;Versie" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oIQv_7I7JvyscMjkKoXb-1">
+          <mxGeometry x="80" y="1245" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Aanpassing bestaand component Product Team" id="TEogw9VQ690VuEQa2Hz_">
-    <mxGraphModel dx="2862" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2862" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GA9ppC-TST8IWgVXm2Ru-0" />
         <mxCell id="GA9ppC-TST8IWgVXm2Ru-1" parent="GA9ppC-TST8IWgVXm2Ru-0" />
